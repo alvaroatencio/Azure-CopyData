@@ -1,0 +1,9 @@
+{
+	"name": "dataf1998siglo21",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "09ab4537-d9f1-4ca9-8cd2-ec8b41f941b7",
+		"tenantId": "50a68648-8a2a-489c-b745-643d4d86d1e3"
+	}
+}
