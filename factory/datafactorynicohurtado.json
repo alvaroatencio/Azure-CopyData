@@ -1,0 +1,9 @@
+{
+	"name": "datafactorynicohurtado",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3d8f1f92-05a6-41d8-afdc-c39b0b7676f8",
+		"tenantId": "71d929a5-af77-473e-bf1a-0d41e1affefe"
+	}
+}
